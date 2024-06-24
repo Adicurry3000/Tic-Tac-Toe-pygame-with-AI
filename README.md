@@ -1,0 +1,1 @@
+This is one of the first games that i built without a youtube tutorial, you will need to have pygame installed to play this game. there are 2 versions one without a computer player and one with an AI player.
